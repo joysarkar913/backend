@@ -1,0 +1,9 @@
+flask
+flask-cors
+rembg
+onnxruntime
+pillow
+gunicorn
+pymongo
+mysql-connector-python
+psycopg2-binary
